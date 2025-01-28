@@ -4,6 +4,8 @@
 
 This project analyzes sales data from Ferns and Petals (FNP), a gift company, using Microsoft Excel.  The analysis explores sales trends, customer behavior, and product performance. The dataset includes information on orders, products, customers, and dates. Key methodologies include data extraction and cleaning with Excel and Power Query, data analysis using Pivot Tables, Charts, and Power Pivot, and the creation of an interactive dashboard to visualize findings. DAX measures were used for calculations. The project aims to provide insights into FNP's sales performance and identify areas for improvement.
 
+![FNP SALES DASHBOARD](https://github.com/user-attachments/assets/88a7aebb-872f-4d96-8122-d54abc75b9a9)
+
 ## Project File 
 My original Project FIle
 - <a href="https://github.com/angelinanayak000/FNP-Sales-Analysis-Excel-Dashboard/blob/main/FNP%20sales%20data%20analysis.xlsx">Project File</a>
@@ -54,7 +56,7 @@ This analysis addresses the following key business questions:
     - Key metrics (revenue, order count, average delivery time) were calculated.
 6. **Dashboard Creation:**
     - An interactive dashboard was created using Excel's charting tools.
-
+  
 ## Project Insights
 
 * **Total Orders:** 1000 orders were processed.
