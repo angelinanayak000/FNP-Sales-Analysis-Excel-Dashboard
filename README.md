@@ -2,7 +2,7 @@
 
 ## Project Objective
 
-This project analyzes sales data from Ferns and Petals (FNP), a gift company, using Microsoft Excel.  The analysis explores sales trends, customer behavior, and product performance. The goal is to provide actionable recommendations to improve sales and customer satisfaction.
+This project analyzes sales data from Ferns and Petals (FNP), a gift company, using Microsoft Excel.  The analysis explores sales trends, customer behavior, and product performance. The dataset includes information on orders, products, customers, and dates. Key methodologies include data extraction and cleaning with Excel and Power Query, data analysis using Pivot Tables, Charts, and Power Pivot, and the creation of an interactive dashboard to visualize findings. DAX measures were used for calculations. The project aims to provide insights into FNP's sales performance and identify areas for improvement.
 
 ## Project File 
 My original Project FIle
@@ -34,7 +34,7 @@ This analysis addresses the following key business questions:
 
 ## Process
 
-1. **Data Extraction:** Data was extracted from [Source of data, e.g., "an Excel file provided by FNP"].
+1. **Data Extraction:** Data was extracted from the dataset.
 2. **Data Cleaning (ETL):**
     - Data was verified for missing values and anomalies, and these were addressed.
     - Data consistency was ensured (data type, format, values).
